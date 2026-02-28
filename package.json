@@ -1,0 +1,11 @@
+{
+  "name": "zk-merkle-airdrop-shield",
+  "version": "1.0.0",
+  "description": "Gas-efficient ERC-20 token distribution via Merkle Trees",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "ethers": "^6.10.0",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.3.11"
+  }
+}
